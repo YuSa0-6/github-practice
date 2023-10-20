@@ -5,3 +5,4 @@
 - stash
 - stash pop
 - git log
+- test
